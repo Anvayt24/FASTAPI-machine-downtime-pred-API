@@ -1,5 +1,4 @@
 # FASTAPI-machine-downtime-pred-API
-# FastAPI Machine Downtime Prediction API
 
 ## Setup Instructions
 1. **Clone the Repository**
